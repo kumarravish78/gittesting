@@ -1,0 +1,9 @@
+{
+	"name": "ADFDemoRavish",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74a69926-f9c6-43b7-bcd2-03eef03ccc2d",
+		"tenantId": "9c350546-88fc-476d-9049-5085585181d7"
+	}
+}
